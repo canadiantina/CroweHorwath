@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CroweHorwathAssignment.Data", "CroweHorwathAssignment.Data\CroweHorwathAssignment.Data.csproj", "{A0068FCB-A960-4965-8A3F-27E4D1F6AD3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CroweHorwathAssignment.Service", "CroweHorwathAssignment.Service\CroweHorwathAssignment.Service.csproj", "{C99E0558-2061-41BD-9E47-2B06D6E8B110}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CroweHorwathAssignment.WebAPI", "CroweHorwathAssignment.WebAPI\CroweHorwathAssignment.WebAPI.csproj", "{C1A53D6D-FE5E-4DD7-8653-EFC13F2481DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CroweHorwathAssignment.WebAPI.Tests", "CroweHorwathAssignment.WebAPI.Tests\CroweHorwathAssignment.WebAPI.Tests.csproj", "{E3791975-C368-45C7-A17B-7127DAA722DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CroweHorwathAssignmentConsole", "CroweHorwathAssignmentConsole\CroweHorwathAssignmentConsole.csproj", "{8AFEECE3-4F03-4868-BE50-E1E047DEB8DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0068FCB-A960-4965-8A3F-27E4D1F6AD3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0068FCB-A960-4965-8A3F-27E4D1F6AD3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0068FCB-A960-4965-8A3F-27E4D1F6AD3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0068FCB-A960-4965-8A3F-27E4D1F6AD3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C99E0558-2061-41BD-9E47-2B06D6E8B110}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C99E0558-2061-41BD-9E47-2B06D6E8B110}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C99E0558-2061-41BD-9E47-2B06D6E8B110}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C99E0558-2061-41BD-9E47-2B06D6E8B110}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1A53D6D-FE5E-4DD7-8653-EFC13F2481DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1A53D6D-FE5E-4DD7-8653-EFC13F2481DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1A53D6D-FE5E-4DD7-8653-EFC13F2481DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1A53D6D-FE5E-4DD7-8653-EFC13F2481DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3791975-C368-45C7-A17B-7127DAA722DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3791975-C368-45C7-A17B-7127DAA722DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3791975-C368-45C7-A17B-7127DAA722DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3791975-C368-45C7-A17B-7127DAA722DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AFEECE3-4F03-4868-BE50-E1E047DEB8DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AFEECE3-4F03-4868-BE50-E1E047DEB8DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AFEECE3-4F03-4868-BE50-E1E047DEB8DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AFEECE3-4F03-4868-BE50-E1E047DEB8DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
