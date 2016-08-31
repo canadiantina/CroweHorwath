@@ -1,0 +1,17 @@
+C:\Users\tinas personal compu\Documents\Visual Studio 2015\Projects\CroweHorwathAssignment\CroweHorwathAssignment.Service\bin\Debug\CroweHorwathAssignment.Service.dll
+C:\Users\tinas personal compu\Documents\Visual Studio 2015\Projects\CroweHorwathAssignment\CroweHorwathAssignment.Service\bin\Debug\CroweHorwathAssignment.Service.pdb
+C:\Users\tinas personal compu\Documents\Visual Studio 2015\Projects\CroweHorwathAssignment\CroweHorwathAssignment.Service\obj\Debug\CroweHorwathAssignment.Service.dll
+C:\Users\tinas personal compu\Documents\Visual Studio 2015\Projects\CroweHorwathAssignment\CroweHorwathAssignment.Service\obj\Debug\CroweHorwathAssignment.Service.pdb
+C:\Users\tinas personal compu\Documents\Visual Studio 2015\Projects\CroweHorwathAssignment\CroweHorwathAssignment.Service\obj\Debug\CroweHorwathAssignment.Service.csprojResolveAssemblyReference.cache
+C:\Users\tinas personal compu\Documents\Visual Studio 2015\Projects\CroweHorwathAssignment\CroweHorwathAssignment.Service\bin\Debug\CroweHorwathAssignment.Service.dll.config
+C:\Users\tinas personal compu\Documents\Visual Studio 2015\Projects\CroweHorwathAssignment\CroweHorwathAssignment.Service\bin\Debug\AutoMapper.dll
+C:\Users\tinas personal compu\Documents\Visual Studio 2015\Projects\CroweHorwathAssignment\CroweHorwathAssignment.Service\bin\Debug\CroweHorwathAssignment.Data.dll
+C:\Users\tinas personal compu\Documents\Visual Studio 2015\Projects\CroweHorwathAssignment\CroweHorwathAssignment.Service\bin\Debug\DelegateDecompiler.dll
+C:\Users\tinas personal compu\Documents\Visual Studio 2015\Projects\CroweHorwathAssignment\CroweHorwathAssignment.Service\bin\Debug\DelegateDecompiler.EntityFramework.dll
+C:\Users\tinas personal compu\Documents\Visual Studio 2015\Projects\CroweHorwathAssignment\CroweHorwathAssignment.Service\bin\Debug\EntityFramework.dll
+C:\Users\tinas personal compu\Documents\Visual Studio 2015\Projects\CroweHorwathAssignment\CroweHorwathAssignment.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tinas personal compu\Documents\Visual Studio 2015\Projects\CroweHorwathAssignment\CroweHorwathAssignment.Service\bin\Debug\Mono.Reflection.dll
+C:\Users\tinas personal compu\Documents\Visual Studio 2015\Projects\CroweHorwathAssignment\CroweHorwathAssignment.Service\bin\Debug\CroweHorwathAssignment.Data.pdb
+C:\Users\tinas personal compu\Documents\Visual Studio 2015\Projects\CroweHorwathAssignment\CroweHorwathAssignment.Service\bin\Debug\AutoMapper.xml
+C:\Users\tinas personal compu\Documents\Visual Studio 2015\Projects\CroweHorwathAssignment\CroweHorwathAssignment.Service\bin\Debug\EntityFramework.xml
+C:\Users\tinas personal compu\Documents\Visual Studio 2015\Projects\CroweHorwathAssignment\CroweHorwathAssignment.Service\bin\Debug\EntityFramework.SqlServer.xml
