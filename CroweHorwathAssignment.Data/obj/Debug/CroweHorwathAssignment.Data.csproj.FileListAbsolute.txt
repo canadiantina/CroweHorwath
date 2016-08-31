@@ -1,0 +1,15 @@
+C:\Users\tinas personal compu\Documents\Visual Studio 2015\Projects\CroweHorwathAssignment\CroweHorwathAssignment.Data\bin\Debug\CroweHorwathAssignment.Data.dll.config
+C:\Users\tinas personal compu\Documents\Visual Studio 2015\Projects\CroweHorwathAssignment\CroweHorwathAssignment.Data\bin\Debug\CroweHorwathAssignment.Data.dll
+C:\Users\tinas personal compu\Documents\Visual Studio 2015\Projects\CroweHorwathAssignment\CroweHorwathAssignment.Data\bin\Debug\CroweHorwathAssignment.Data.pdb
+C:\Users\tinas personal compu\Documents\Visual Studio 2015\Projects\CroweHorwathAssignment\CroweHorwathAssignment.Data\bin\Debug\AutoMapper.dll
+C:\Users\tinas personal compu\Documents\Visual Studio 2015\Projects\CroweHorwathAssignment\CroweHorwathAssignment.Data\bin\Debug\DelegateDecompiler.dll
+C:\Users\tinas personal compu\Documents\Visual Studio 2015\Projects\CroweHorwathAssignment\CroweHorwathAssignment.Data\bin\Debug\DelegateDecompiler.EntityFramework.dll
+C:\Users\tinas personal compu\Documents\Visual Studio 2015\Projects\CroweHorwathAssignment\CroweHorwathAssignment.Data\bin\Debug\EntityFramework.dll
+C:\Users\tinas personal compu\Documents\Visual Studio 2015\Projects\CroweHorwathAssignment\CroweHorwathAssignment.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tinas personal compu\Documents\Visual Studio 2015\Projects\CroweHorwathAssignment\CroweHorwathAssignment.Data\bin\Debug\Mono.Reflection.dll
+C:\Users\tinas personal compu\Documents\Visual Studio 2015\Projects\CroweHorwathAssignment\CroweHorwathAssignment.Data\bin\Debug\AutoMapper.xml
+C:\Users\tinas personal compu\Documents\Visual Studio 2015\Projects\CroweHorwathAssignment\CroweHorwathAssignment.Data\bin\Debug\EntityFramework.xml
+C:\Users\tinas personal compu\Documents\Visual Studio 2015\Projects\CroweHorwathAssignment\CroweHorwathAssignment.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tinas personal compu\Documents\Visual Studio 2015\Projects\CroweHorwathAssignment\CroweHorwathAssignment.Data\obj\Debug\CroweHorwathAssignment.Data.dll
+C:\Users\tinas personal compu\Documents\Visual Studio 2015\Projects\CroweHorwathAssignment\CroweHorwathAssignment.Data\obj\Debug\CroweHorwathAssignment.Data.pdb
+C:\Users\tinas personal compu\Documents\Visual Studio 2015\Projects\CroweHorwathAssignment\CroweHorwathAssignment.Data\obj\Debug\CroweHorwathAssignment.Data.csprojResolveAssemblyReference.cache
